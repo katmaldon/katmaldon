@@ -2,8 +2,6 @@
 
 I'm currently working on building out my portfolio page, until then my code work lives here, in its rawest form.
 
-[![KatMaldon's github stats](https://github-readme-stats.vercel.app/api?username=katmaldon&show_icons=true&theme=gotham)](https://github.com/katmaldon/github-readme-stats)
-
 ### Where to find me:
 
 https://www.linkedin.com/in/katmaldon/
@@ -12,7 +10,9 @@ https://www.linkedin.com/in/katmaldon/
 
 https://medium.com/@katmaldon
 
-### Pinned:
+[![KatMaldon's github stats](https://github-readme-stats.vercel.app/api?username=katmaldon&show_icons=true&theme=gotham)](https://github.com/katmaldon/github-readme-stats)
+
+### Recent Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=katmaldon&repo=goodtrouble-api&theme=gotham)](https://github.com/katmaldon/goodtrouble-api)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=katmaldon&repo=goodtrouble-client&theme=gotham)](https://github.com/katmaldon/goodtrouble-client)
